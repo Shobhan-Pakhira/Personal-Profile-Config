@@ -13,7 +13,6 @@ This project aims to simplify and guide the way beginners make their first contr
 
 If you're not comfortable with command line, here are tutorials using GUI tools.
 
-fork this repository
-![Forking](./Sample%20Images/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636c6f6e652e706e67.png)
+fork this repository ![Forking](./Sample%20Images/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636c6f6e652e706e67.png)
 
 If you don't have git on your machine, install it.
