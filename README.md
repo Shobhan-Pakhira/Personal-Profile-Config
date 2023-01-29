@@ -12,7 +12,7 @@ I'm a creative graphic designer and web developer who combines design and develo
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shobhan-Pakhira&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shobhan-Pakhira&theme=great-gatsby&hide_border=false">
 </p>
-<p>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhan-Pakhira&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </p>
 
