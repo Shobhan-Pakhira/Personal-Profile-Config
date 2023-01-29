@@ -1,3 +1,5 @@
+# I am Shobhan, Welcome to my digital canvas! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+" width="30px">
 # 💫 About Me:
 I'm a creative graphic designer and web developer who combines design and development skills to create visually stunning and user-friendly websites. I wield my design skills like a master artist, with a palette of Adobe Photoshop, Illustrator, and InDesign. My developer skills are like a sharp chisel, sculpting beautiful and functional websites using HTML, CSS and JavaScript. Let's collaborate and craft something truly exceptional.
 
