@@ -18,5 +18,9 @@ I'm a creative graphic designer and web developer who combines design and develo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+<p align="center">
+  <img src="https://github.com/samyakjain10/samyakjain10/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Shobhan-Pakhira&icon=2&color=0)](https://visitcount.itsvg.in)
