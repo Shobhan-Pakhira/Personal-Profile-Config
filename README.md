@@ -12,6 +12,9 @@ I'm a creative graphic designer and web developer who combines design and develo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shobhan-Pakhira&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhan-Pakhira&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shobhan-Pakhira&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
